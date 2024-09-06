@@ -1,4 +1,7 @@
-## Hi there 👋
+## HIII
+I'M ODDHORSE AND I MAKE MUSIC AND ITS A SPECIAL KIND AND I CALL IT HORSEPOP
+
+stream it [here](https://odd.horse/)!
 
 <!--
 **oddhorse/oddhorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
